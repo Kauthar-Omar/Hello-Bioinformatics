@@ -1,2 +1,2 @@
 # Hello-Bioinformatics
-The beginning of the bioinformatic journey on github
+The beginning of the bioinformatics journey on github
