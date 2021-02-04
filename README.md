@@ -23,4 +23,9 @@ lets see how it works
 ```
 print("my  code.")
 ```
+
+What a beautiful animal
+
+![pet](https://i.pinimg.com/originals/e4/27/55/e427556aa518c002db39e9d2b1fa5649.jpg)
+
 # END
